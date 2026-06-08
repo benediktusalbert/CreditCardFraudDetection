@@ -1,0 +1,6 @@
+Model,Accuracy,Precision,Recall,F1 Score,Training Time
+Logistic Regression,0.9755,0.0608,0.9184,0.1141,0.9
+Naive Bayes,0.9764,0.0588,0.8469,0.1099,0.19
+Random Forest,0.9995,0.8977,0.8061,0.8495,72.35
+SVM,0.9968,0.3217,0.7551,0.4512,1063.11
+XGBoost,0.9995,0.8901,0.8265,0.8571,3.71
